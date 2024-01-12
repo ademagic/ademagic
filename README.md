@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/ademagic"><img src="https://api.daily.dev/devcards/c85e6aba6a7b424898a6f61f4c3c8c21.png?r=qku" width="400" alt="Miko's Dev Card"/></a>
+<a href="https://app.daily.dev/ademagic"><img src="https://github.com/ademagic/ademagic/blob/master/devcard.svg" width="400" alt="Miko's Dev Card"/></a>
 
 <!--
 **ademagic/ademagic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
