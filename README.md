@@ -8,4 +8,4 @@ You can also reach me on
 - Twitter: [@miko_a](https:x.com/miko_a)
 - My personal site: [miko.ademagic.com](https://miko.ademagic.com)
 
-<a href="https://app.daily.dev/ademagic"><img align="right" src="https://github.com/ademagic/ademagic/blob/main/devcard.svg" width="400" alt="Miko's Dev Card"/></a>
+<a href="https://app.daily.dev/ademagic"><img src="https://api.daily.dev/devcards/v2/FemQdCdeQ3pCMklk5Fig9.png?type=wide&r=g9k" width="652" alt="Miko's Dev Card"/></a>
